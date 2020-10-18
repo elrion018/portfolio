@@ -11,8 +11,9 @@
 
 ## [간단한 CRUD 게시판](http://therapeutic-sleep.surge.sh/)
 
+* https://github.com/elrion018/board_client
 * 프레임워크의 사용 없이 JavaScript를 활용하여 간단한 CRUD 게시판을 만들었습니다.
-* 서버는 Django를 활용하여 만들었으며 현재 Heroku로 배포 중입니다.
+* [서버](https://github.com/elrion018/board_server)는 Django를 활용하여 만들었으며 현재 Heroku로 배포 중입니다.
 * 간단한 REST API 개발 경험을 쌓을 수 있었습니다.
 * 많이 사용되는 기능인 CRUD(Create, Read, Update, Delete)에 대한 감을 익힐 수 있었습니다.
 
@@ -31,6 +32,7 @@
 
 ## [Tetris](http://regular-toy.surge.sh/)
 
+* https://github.com/elrion018/Tetris
 * 프레임워크의 사용 없이 JavaScript를 활용하여 간단한 Tetris 을 만들었습니다.
 * 상호작용이 많고, 로직이 단순하진 않으므로 만들면서 JavaScript의 이해 및 구현력을 높일 수 있었습니다.
 
