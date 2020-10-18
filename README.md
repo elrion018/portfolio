@@ -64,6 +64,6 @@
 * http://stickyboard.co.kr/components/highcharts
 * 정보통신산업진흥원에서 진행한 오픈소스 컨트리뷰톤에서 [StickyBoard](http://stickyboard.co.kr/)팀 멘티로 참여하였습니다.
 * StickyBoard는 React.js를 활용하여 맞춤형 DashBoard, admin 페이지 등을 손쉽게 만들 수 있도록 도와주는 Starter kit입니다.
-* StickyBoard에서 HighCharts(https://www.highcharts.com/)를 사용할 수 있도록 하는 라이브러리입니다.
+* StickyBoard에서 HighCharts(https://www.highcharts.com/) 를 사용할 수 있도록 하는 라이브러리입니다.
 * 오픈소스 기여를 위해 코드를 공부하여 React.js를 경험할 수 있었습니다.
 * 오픈소스 기여라는 특별한 경험을 할 수 있었습니다.
