@@ -74,7 +74,7 @@
 <br/>
 
 ## [Hufs 간편 OCR 서비스](https://hufsocr.netlify.app/)
-* 학교 원어 수업에 사용되는 외국어 자료들을 학생들이 쉽게 공부하게 하고자 만든 서비스입니다.
+* 한국외대 원어 수업에 사용되는 외국어 자료들을 학생들이 쉽게 공부하게 하고자 만든 서비스입니다.
 * 외국어 자료의 jpg, png 이미지를 input으로 넣으면 이미지 내 문자를 인식해(OCR) 전산화하여 txt 파일이나 excel 파일로 내보내 줍니다.(PDF파일도 지원하도록 구현 예정)
 * 'Extracting words(단어 추출하기)'와 'Extracting text(본문 내용 추출하기)' 기능을 지원합니다.
 * OCR 오픈소스 Tesseract.js와 웹페이지를 구성하기 위해 React.js를 사용하였습니다.
