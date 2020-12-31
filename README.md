@@ -82,7 +82,7 @@
 
 <br/>
 
-## [우아한테크코스(woowatechcourse) 프리코스 과제]
+## [우아한테크코스(woowatechcourse)](https://github.com/woowacourse) 프리코스 과제
 
 * [숫자야구 게임 미션](https://github.com/elrion018/javascript-baseball-precourse)
 * [자동차경주 게임 미션](https://github.com/elrion018/javascript-racingcar-precourse)
