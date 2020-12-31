@@ -79,3 +79,15 @@
 * 'Extracting words(단어 추출하기)'와 'Extracting text(본문 내용 추출하기)' 기능을 지원합니다.
 * OCR 오픈소스 Tesseract.js와 웹페이지를 구성하기 위해 React.js를 사용하였습니다.
 
+
+<br/>
+
+## [우아한테크코스(woowatechcourse) 프리코스 과제]
+
+* [숫자야구 게임 미션](https://github.com/elrion018/javascript-baseball-precourse)
+* [자동차경주 게임 미션](https://github.com/elrion018/javascript-racingcar-precourse)
+* [지하철노선도 미션](https://github.com/elrion018/javascript-subway-map-precourse)
+* [지하철최적노선 탐색기 미션](https://github.com/elrion018/javascript-subway-path-precourse)
+* 우아한테크코스 선발 과정 중 진행한 3주 간의 체험 과정인 프리코스를 수료했습니다.
+* 좋은 구조와 코드에 대한 고민을 할 수 있게 되었습니다.
+* 자기 주도적 학습 습관을 들일 수 있었습니다.
